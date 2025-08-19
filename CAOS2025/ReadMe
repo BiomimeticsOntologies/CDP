@@ -1,1 +1,8 @@
+This repository includes an ontology for the production development process with a focus on conceptual design process. 
+This release was introdcued in CAOS 2025 Workshop in the 15th edition of the International Conference on Formal Ontology in Information Systems (FOIS) 
+and the Joint Ontology Workshops Episode XI (JOWO) 2025 (https://www.dmi.unict.it/fois2025/).
 
+NB: The ontology is at the evaluation stage. 
+
+"CAOS025release.owl" file contains the ontology.
+"CAOS2025.zip" includes all the imported classes and the ontology's OWL file. 
